@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">电子表</string>
+    <string name="title_home">时间</string>
+    <string name="title_seconds">秒表</string>
+    <string name="title_Countdown">倒计时</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_time"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_seconds"
+        android:icon="@drawable/ic_seconds"
+        android:title="@string/title_seconds" />
+
+    <item
+        android:id="@+id/navigation_countdown"
+        android:icon="@drawable/ic_countdown"
+        android:title="@string/title_Countdown" />
+</menu>
